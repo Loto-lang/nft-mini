@@ -1,4 +1,4 @@
-# 🎨 Solana NFT Mini
+# 🎨 Solana NFT Mini (ENCODE CLUB - SOLANA BOOTCAMP Q3 2025)
 
 A minimal on-chain NFT minting project built with **Solana**, **Metaplex**, and **TypeScript**.  
 This project demonstrates how to mint NFTs, verify them within a collection, and manage metadata hosted on **IPFS (Pinata)**.
